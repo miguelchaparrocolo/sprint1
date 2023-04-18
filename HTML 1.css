@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    width: 1440px/375px; 
+    font-family: 'monserat', sans-serif; 
+  }
+
+  .content{
+    width: 100%;
+    text-align: left;
+    position: relative;
+    line-height: 100%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, 35%);
+  }
+  .content h1{
+    color: black;
+    font-size: 34px;
+  }
+
+  .content p{
+    color: #4F4F4F;
+    font-size: 18px;
+  }
+
+  .content a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size:10px;
+    padding: 12px 24px;
+    display: inline-block;
+
+  }
+
+  .interlineadod{
+    line-height: 100%;
+  }
+
+  .interlineado2{
+    line-height: 200%;
+  }
